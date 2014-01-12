@@ -1,6 +1,8 @@
 # Lightboxify
 
-Lightboxify turns a folder containing images into a lightbox slideshow.
+Lightboxify turns a folder containing images into a lightbox slideshow with a single command.
+
+![](doc/lightboxify.jpg)
 
 ## Demo and instructions
 
